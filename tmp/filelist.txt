@@ -1,0 +1,23 @@
+ALQ	DEMO	DPQ	DR1TOT	DR2TOT	PAQ	SMQ	
+0506	0708	0910	
+C:\Users\misty\Documents\R_Study\AS\data\NHANES\ALQ\ALQ_0506.xpt
+C:\Users\misty\Documents\R_Study\AS\data\NHANES\ALQ\ALQ_0708.xpt
+C:\Users\misty\Documents\R_Study\AS\data\NHANES\ALQ\ALQ_0910.xpt
+C:\Users\misty\Documents\R_Study\AS\data\NHANES\DEMO\DEMO_0506.xpt
+C:\Users\misty\Documents\R_Study\AS\data\NHANES\DEMO\DEMO_0708.xpt
+C:\Users\misty\Documents\R_Study\AS\data\NHANES\DEMO\DEMO_0910.xpt
+C:\Users\misty\Documents\R_Study\AS\data\NHANES\DPQ\DPQ_0506.xpt
+C:\Users\misty\Documents\R_Study\AS\data\NHANES\DPQ\DPQ_0708.xpt
+C:\Users\misty\Documents\R_Study\AS\data\NHANES\DPQ\DPQ_0910.xpt
+C:\Users\misty\Documents\R_Study\AS\data\NHANES\DR1TOT\DR1TOT_0506.xpt
+C:\Users\misty\Documents\R_Study\AS\data\NHANES\DR1TOT\DR1TOT_0708.xpt
+C:\Users\misty\Documents\R_Study\AS\data\NHANES\DR1TOT\DR1TOT_0910.xpt
+C:\Users\misty\Documents\R_Study\AS\data\NHANES\DR2TOT\DR2TOT_0506.xpt
+C:\Users\misty\Documents\R_Study\AS\data\NHANES\DR2TOT\DR2TOT_0708.xpt
+C:\Users\misty\Documents\R_Study\AS\data\NHANES\DR2TOT\DR2TOT_0910.xpt
+C:\Users\misty\Documents\R_Study\AS\data\NHANES\PAQ\PAQ_0506.xpt
+C:\Users\misty\Documents\R_Study\AS\data\NHANES\PAQ\PAQ_0708.xpt
+C:\Users\misty\Documents\R_Study\AS\data\NHANES\PAQ\PAQ_0910.xpt
+C:\Users\misty\Documents\R_Study\AS\data\NHANES\SMQ\SMQ_0506.xpt
+C:\Users\misty\Documents\R_Study\AS\data\NHANES\SMQ\SMQ_0708.xpt
+C:\Users\misty\Documents\R_Study\AS\data\NHANES\SMQ\SMQ_0910.xpt
